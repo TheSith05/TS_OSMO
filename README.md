@@ -77,8 +77,10 @@ lib_deps =
 3. **Калибровка:** пролейте измеренный объём (5–10 л), посмотрите счётчик пульсов, поделите пульсы на литры (вактические литры), введите результат в «Импульсов на литр».
 P.S. Если меняете пароль, он должен быть НЕ менее 8 символов!
 
-![Скриншот: мониторинг](doc/Screenshot_2026-09-18-17-44-55-930_com.google.android.captiveportallogin.jpg) <!-- TODO -->
-![Скриншот: мастер настройки](doc/Screenshot_2026-09-18-17-43-02-830_com.google.android.captiveportallogin.jpg) <!-- TODO -->
+| Скриншот: мониторинг | Скриншот: мастер настройки |
+| --- | --- |
+|![](doc/Screenshot_2026-09-18-17-44-55-930_com.google.android.captiveportallogin.jpg)|![](doc/Screenshot_2026-09-18-17-43-02-830_com.google.android.captiveportallogin.jpg)|
+
 
 ## Эксплуатация
 
